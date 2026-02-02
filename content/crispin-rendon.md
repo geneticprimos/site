@@ -1,20 +1,13 @@
 ---
 title: Reports by Crispin Rendon
+date: 1-26-2026
+publish: "true"
 ---
 
 
 These are PDF reports made in whole or in part by Crispin Rendon with publicly available or shared data. These are to aid in genealogical and genetic genealogical research to expand our shared knowledge. To download, simply click on a link and select the download button found at the top. Then save it.
 
-## Reports hosted by genealogical groups:
-
-(If their links stop working, let us know.)
-
-Families of **Galeana**, Nuevo Leon, Mexico (Volumes 1-5)  
-Families of **Garcia**, Nuevo Leon, Mexico (Volumes 1-3)
-
-- (Hosted by the [Hispanic Organization for Genealogy and Research](http://www.hogardedallas.org/resources/))
-
-## Reports hosted here:
+## Family Related Reports:
 
 Families of **Boca de Leones**, Nuevo Leon, Mexico (Volumes 1-2)
 
@@ -55,6 +48,20 @@ Families of **China**, Nuevo Leon, Mexico (Volumes 1-4)
 Families of **El Potosi, Galeana**, Nuevo Leon, Mexico
 
 - [elpotosi.pdf](https://drive.google.com/open?id=1gQvIBnxyuBARMV5vRZEuZfHwjijtq5uQ)
+
+Families of **Galeana**, Nuevo Leon, Mexico (Volumes 1-5) 
+
+- [GaleanaV1.pdf](https://drive.google.com/open?id=1T8RopIwPzsFL8KOu4yKJaH-4fEYzVP3u)
+- [GaleanaV2.pdf](https://drive.google.com/open?id=1hP9D2Uc2q9tDH54NOCmy7iHv3vI_X81C)
+- [GaleanaV3.pdf](https://drive.google.com/open?id=19PzyqWulB1uHWIBDLgd7SYpGwVjg1-cM)
+- [GaleanaV4.pdf](https://drive.google.com/open?id=1wGlSj1NvpiXIjgzFvSLjJ9gdq53ndkH6)
+- [GaleanaV5.pdf](https://drive.google.com/open?id=1HVDnZr9_pEHL7XMDQppzMjztIzcwJKnd)
+
+Families of **Garcia**, Nuevo Leon, Mexico (Volumes 1-3)
+
+- [GarciaNL1.pdf](https://drive.google.com/open?id=10KVIsbo2_MVKJpEQw-xFaLndV9W2C6yK)
+- [GarciaNl2.pdf](https://drive.google.com/open?id=1U8THmMTZWCPWQuVkuDFNOcuJUDuJCzl1)
+- [GarciaNL3.pdf](https://drive.google.com/open?id=1Pbg8iuhjKMwWxRTLorWi9tQrPvzAAJAO)
 
 Families of **General Teran**, Nuevo Leon, Mexico (Volumes 1-9)
 
